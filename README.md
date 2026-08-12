@@ -26,5 +26,3 @@ Your app is ready to be deployed!
 ## Deployment
 
 Learn more about deploying your application with the [documentations](https://vite.dev/guide/static-deploy.html)
-
-<!-- debounce probe A 2026-08-12 -->
